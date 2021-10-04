@@ -1,0 +1,9 @@
+#bootstrap-overrides a {
+    color: #00d27d;
+    text-decoration: none;
+}
+
+#bootstrap-overrides a:hover {
+    color: #06FF9A;
+    text-decoration: underline;
+  }

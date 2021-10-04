@@ -1,0 +1,16 @@
+#home{
+    color: white;
+    background-color: black;
+}
+#home:active {
+    color: #00d27d;
+  }
+
+  #home:hover {
+    color: #00d27d;
+    
+  }
+
+#navbar{   
+    min-height: fit-content;
+}

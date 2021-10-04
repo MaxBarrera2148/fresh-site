@@ -1,0 +1,23 @@
+.footer{
+    min-height: 10vh;
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem 1rem 4rem 1rem;
+}
+
+.contact{
+        background-color: #00d27d !important; 
+        color: #343434 !important; 
+        border: none !important;
+        font-weight: bold !important;
+        border-radius: 24px !important;
+        padding: 10px 35px !important;
+        margin: 4px 2px !important;
+        outline: none !important;
+}
+#override .contact:focus,.contact:active {
+    outline: none;
+    box-shadow: none;
+ }
