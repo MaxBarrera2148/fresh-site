@@ -12,11 +12,9 @@ const Header = () => (
       <Navbar id="navbar" expand="md" variant="dark">
         <Navbar.Brand href="/">   
             <StaticImage
-                    src="C:\Users\HP\Desktop\fresh-site\assets\iov-logo-bvn.svg"
+                    src="C:\Users\HP\Desktop\fresh-site\assets\iovlabs_logo_color.svg"
                     alt="logo"
                     placeholder="blurred"
-                    width="250px"
-                
                 />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarResponsive" />

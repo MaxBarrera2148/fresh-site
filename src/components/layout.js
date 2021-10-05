@@ -3,7 +3,6 @@
 import { jsx } from "theme-ui"
 import React from "react"
 import Header from "./Header"
-import Navbar from "./NavBar"
 
 
 
@@ -14,7 +13,7 @@ class Layout extends React.Component {
 
     return (
       <>
-     <Navbar/>
+     <Header/>
      <div style={{display: "flex", justifyContent: "center", alignContent: "center", }}>
     
         <div
